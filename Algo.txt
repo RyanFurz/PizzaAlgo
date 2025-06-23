@@ -1,0 +1,4 @@
+Step 1: Call the restaurant of preferred pizza and place order.
+Step 2: Wait for the pizza to be delivered to your location.
+Step 3: Pay the driver upon arrival.
+Step 4: Consume your delicious pizza.
